@@ -28,6 +28,6 @@ Known Bugs:
 - This program is not working as intended in 64-bit systems. The layout is messed up. 
   Double click and right click doesn't work. Use Add Tags and Open File button on top of window as subtitute
   of mouse clicks.
-  
+- Files missing when using sort. Reload files works to make the files appear again.  
 
 
