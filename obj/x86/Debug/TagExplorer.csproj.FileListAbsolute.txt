@@ -1,0 +1,33 @@
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\bin\Debug\TagExplorer.exe
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\bin\Debug\TagExplorer.pdb
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\obj\x86\Debug\TagExplorer.Form1.resources
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\obj\x86\Debug\TagExplorer.Properties.Resources.resources
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\obj\x86\Debug\TagExplorer.csproj.GenerateResource.Cache
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\obj\x86\Debug\TagExplorer.exe
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\obj\x86\Debug\TagExplorer.pdb
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\obj\x86\Debug\TagExplorer.SettingsForm.resources
+C:\Users\bayu\AppData\Local\Temporary Projects\TagExplorer\bin\Debug\TagExplorer.exe.config
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\TagExplorer.exe.config
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.exe
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.pdb
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\TagExplorer.exe
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\TagExplorer.pdb
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.Form1.resources
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.Properties.Resources.resources
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.SettingsForm.resources
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.csproj.GenerateResource.Cache
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.csprojResolveAssemblyReference.cache
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Newtonsoft.Json.dll
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Newtonsoft.Json.pdb
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Newtonsoft.Json.xml
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.RenameForm.resources
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\Interop.WMPLib.dll
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.csproj.ResolveComReference.cache
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\Interop.Shell32.dll
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.SplashScreen.resources
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.SettingsForm_beta.resources
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.Form1_beta.resources
