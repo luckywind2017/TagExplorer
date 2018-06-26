@@ -89,12 +89,6 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Beta\Form1_beta.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Beta\Form1_beta.designer.cs">
-      <DependentUpon>Form1_beta.cs</DependentUpon>
-    </Compile>
     <Compile Include="Beta\Settings_beta.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -128,9 +122,6 @@
     <Compile Include="SplashScreen.Designer.cs">
       <DependentUpon>SplashScreen.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Beta\Form1_beta.resx">
-      <DependentUpon>Form1_beta.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Beta\Settings_beta.resx">
       <DependentUpon>Settings_beta.cs</DependentUpon>
     </EmbeddedResource>

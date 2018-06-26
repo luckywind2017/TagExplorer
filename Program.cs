@@ -15,14 +15,7 @@ namespace TagExplorer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            if (Type.GetType("Form1_beta") != null && Globals.betaMode)
-            {
-                Application.Run(new Form1_beta());
-            }
-            else
-            {
-                Application.Run(new Form1());
-            }
+            Application.Run(new Form1());
         }
     }
 }

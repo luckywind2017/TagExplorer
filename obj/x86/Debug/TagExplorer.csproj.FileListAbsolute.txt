@@ -16,7 +16,6 @@ D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.Form1.resources
 D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.Properties.Resources.resources
 D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.SettingsForm.resources
 D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.csproj.GenerateResource.Cache
-D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.csprojResolveAssemblyReference.cache
 D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Newtonsoft.Json.dll
 D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Newtonsoft.Json.pdb
 D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Newtonsoft.Json.xml
@@ -30,4 +29,4 @@ D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Microsoft.WindowsAPICodePack.Shel
 D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Microsoft.WindowsAPICodePack.xml
 D:\BP\Coding\TagExplorer\TagExplorer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
 D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.SettingsForm_beta.resources
-D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.Form1_beta.resources
+D:\BP\Coding\TagExplorer\TagExplorer\obj\x86\Debug\TagExplorer.csprojResolveAssemblyReference.cache

@@ -377,16 +377,5 @@ namespace TagExplorer
 
     }
 
-    public class tagsComparer : System.Collections.IComparer
-    {
-        public int Compare(object x, object y)
-        {
-            string sX = (x as ListViewItem).SubItems[0].Text;
-            string sY = (y as ListViewItem).SubItems[0].Text;
-            int nX = sX != null || sX != "" ? Convert.ToInt16(sX) : 0;
-            int nY = sY != null || sY != "" ? Convert.ToInt16(sY) : 0;
-            return nX.CompareTo(nY);
-        }
-    }
-
+ 
 }
