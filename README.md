@@ -22,6 +22,7 @@ Additional features:
 Future improvements:
 1. Add general categories (Videos, Music, Document, etc) to improve classification of files.
 2. Embed tags on file's tag property.
+3. Exclude or Filter files by file extensions.
 
 Known Bugs:
 - This program is not working as intended in 64-bit systems. The layout is messed up. 
