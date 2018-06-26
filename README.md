@@ -1,6 +1,8 @@
 # TagExplorer
 Populate and Tag Your Files!
 
+![Screenshot](https://github.com/luckywind2017/TagExplorer/blob/master/Screenshot/Screen1.JPG?raw=true "Screenshot")
+
 A simple program to populate your files (videos, music, documents, etc) and 
 categorize it with tags to make file management easier.
 
